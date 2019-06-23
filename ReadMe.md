@@ -1,6 +1,9 @@
-echo "# SoftwareEngineering" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/MealHeal/SoftwareEngineering.git
-git push -u origin master
+CSC3210 - ARMStrong
+PROJECT TITLE: Developing Soft and Parallel Programming Skills Using Project-Based Learning
+TEAM MEMBERS
+Ailany Icassatti
+Hashim Amin
+Isaiah Smith
+Sivasubramaniyan Mourougassamy
+Thang Nguyen
+Toan Le
