@@ -1,8 +1,12 @@
 # Software Engineering
 # PROJECT TITLE: MealHeal; Buildng Food Donation Platform
 # TEAM MEMBERS
-  Ailany Icassatti  
+  Ailany Icassatti
+	
   Steven Desprez
+	
   Parsa Sarirafraz
+	
   Minho Song
+	
   Jacob Lawton
