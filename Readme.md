@@ -1,4 +1,4 @@
-# PROJECT TITLE: MealHeal: Food Donation Platform
+# MealHeal: Food Donation Platform
 # TEAM MEMBERS
   Ailany Icassatti
 	
