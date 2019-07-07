@@ -1,5 +1,4 @@
-# Software Engineering
-# PROJECT TITLE: MealHeal; Buildng Food Donation Platform
+# PROJECT TITLE: MealHeal; Food Donation Platform
 # TEAM MEMBERS
   Ailany Icassatti
 	
