@@ -10,6 +10,6 @@
 	
   Jacob Lawton
 
-This project is to build a food donation system where the restaurants will be able to find suitable charities in their local areas to donate their excess food every day.
+This project is a food donation system where restaurants will be able to find suitable charities in their local areas to donate their excess food on a regular basis.
 
-Android Studio has been used for this project and Java was written.
+Android Studio has been used for this project.
